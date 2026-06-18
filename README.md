@@ -1,5 +1,5 @@
-# Data-Bootcamp-Python-Pandas
-# 📊 Data Technician Bootcamp – Python Data Analysis Project
+
+# 📊 Data-Bootcamp-Python-Pandas
 
 ## 📖 Overview
 This project was completed as part of a **Data Technician Bootcamp (Week 6 – Python)**, focusing on practical data analysis using real-world retail and sales datasets. The work was carried out in **Google Colab notebooks**, where multiple datasets were explored, cleaned, and analysed using Python. 【1-38adb9】  
